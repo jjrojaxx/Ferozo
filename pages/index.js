@@ -1,11 +1,17 @@
 import Nav from '../components/Nav'
 import Footer from '../components/Footer'
+import Hero from '../components/Home/Hero'
 
-export default function Home() {
+export default function Home () {
   return (
     <div>
+      <head>
+        <title>Devaster | Home</title>
+      </head>
       <Nav />
-      <h1>Home</h1>
+      <main>
+        <Hero />
+      </main>
       <Footer />
     </div>
   )
