@@ -1,5 +1,5 @@
-export default function ConsultingDevaster() {
+export default function ConsultingDevaster () {
     return (
-      <div>Consulting Devaster</div>
-    )
-  }
+    <div>Consulting Devaster</div>
+  )
+}

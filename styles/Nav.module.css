@@ -129,6 +129,7 @@
         position: absolute; 
         display: block !important;   
         transition: all 400ms;
+        z-index: 1;
     }
     .btnNavResponsive{
         color: var(--color-white);
