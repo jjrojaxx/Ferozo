@@ -6,9 +6,6 @@ import SectionTwo from '../components/Home/SectionOne'
 export default function Home () {
   return (
     <div>
-      <head>
-        <title>Devaster | Home</title>
-      </head>
       <Nav />
       <main>
         <Hero />
